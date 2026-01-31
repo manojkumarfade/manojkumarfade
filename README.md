@@ -67,6 +67,10 @@ Fueled by debugging sessions at questionable hours.
 
 ---
 
+![Cat_Programmer_Animated_Video](https://github.com/user-attachments/assets/70655932-9a95-4c87-b93e-abe23de01206)
+
+---
+
 ## 🚀 What I’m Up To
 
 - 🚀 Built <b>Nova</b> – an Agentic AI Chrome Extension that can see webpages, plan multi-step actions, and autonomously navigate the web using LLMs and DOM intelligence  
@@ -113,10 +117,6 @@ Fueled by debugging sessions at questionable hours.
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojkumarfade&theme=dark" />
-
----
-
-![Cat_Programmer_Animated_Video](https://github.com/user-attachments/assets/70655932-9a95-4c87-b93e-abe23de01206)
 
 ---
 
